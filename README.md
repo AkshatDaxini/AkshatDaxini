@@ -50,6 +50,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshatDaxini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AkshatDaxini&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+
 <!--## 📊 Leetcode Stats
 ![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/CompetitiveLin?theme=light&font=Noto_Sans&ext=heatmap&site=cn) -->
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
